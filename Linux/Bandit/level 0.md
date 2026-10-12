@@ -5,7 +5,20 @@
 Terminal:
 
 ```bash
-ssh -p 2220 bandit0@bandit.labs.overthewire.org
+fuyad@Fuyadslappy:~/CSJ/Linux$ ssh -p 2220 bandit0@bandit.labs.overthewire.org
+                         _                     _ _ _   
+                        | |__   __ _ _ __   __| (_) |_ 
+                        | '_ \ / _` | '_ \ / _` | | __|
+                        | |_) | (_| | | | | (_| | | |_ 
+                        |_.__/ \__,_|_| |_|\__,_|_|\__|
+                                                       
+
+                      This is an OverTheWire game server. 
+            More information on http://www.overthewire.org/wargames
+
+backend: gibson-0
+bandit0@bandit.labs.overthewire.org's password: 
+
 ```
 
 **Steps:**
@@ -27,5 +40,3 @@ ssh -p 2220 bandit0@bandit.labs.overthewire.org
 - `-p 2220` specifies the port.
 
 - My local Ubuntu and the Bandit server are two different systems.
-
-
